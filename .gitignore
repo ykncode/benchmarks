@@ -1,0 +1,8 @@
+*.exe
+*.pdb
+*.obj
+*.o
+__pycache__/
+*.pyc
+*.tmp
+*.log
